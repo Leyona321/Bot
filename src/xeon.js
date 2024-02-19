@@ -1,3 +1,3 @@
 {
-	"name": "Cheems Bot Multi Device "
+	"name": "Xyaa BOT By Lynaa Winosaa 🌷 "
 }
